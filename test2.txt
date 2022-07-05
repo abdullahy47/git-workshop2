@@ -1,1 +1,2 @@
 deneme amacıyla bir satır ekledik
+ikinci bir satır eklendi
